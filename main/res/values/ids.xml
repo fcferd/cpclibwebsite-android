@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="nav_view" type="id"/>
+    <item name="nav_toolbar" type="id"/>
+    <item name="nav_home" type="id"/>
+    <item name="nav_books" type="id"/>
+    <item name="nav_libraryofficials" type="id"/>
+    <item name="nav_about" type="id"/>
+    <item name="fragment_container" type="id"/>
+    <item name="R.id" type="id"/>
+    <item name="R.layout" type="id"/>
+    <item name="R.viewPager" type="id"/>
+    <item name="viewPager" type="id">viewPager</item>
+    <item name="libraryofficials_fragment_container" type="id"/>
+    <item name="tab_layout" type="id"/>
+    <item name="R.drawer-layout" type="id"/>
+    <item name="R.tabs" type="id"/>
+    <item name="tabs" type="id">tabs</item>
+    <item name="drawer_layout" type="id">layout</item>
+
+</resources>

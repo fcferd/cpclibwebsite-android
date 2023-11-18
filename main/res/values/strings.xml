@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CpcLibraryWebsite</string>
+    <string name="open_nav">open_nav\n</string>
+    <string name="close_nav">close_nav</string>
+    <string name="home">Home</string>
+    <string name="books">Books</string>
+    <string name="library_officials">Library Officials</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="objectives_text">
+    <![CDATA[
+
+        1. To acquire material which will meet the research and information needs of the faculty and students.
+
+        2. To organize these materials for effective use.
+
+        3. To provide adequate resources for the clientele which will satisfy not only their immediate needs but also their remote life goals.
+
+        4. To support the educational, religious, social, civil, and cultural activities of the Purisimian community through the resources.
+
+        5. To provide support and encouragement for academic advancement and extend assistance to any research work.
+
+        6. To maintain adequate and upgraded collection.
+
+        7. To continuously educate the students in the proper use of the library resources and facilities and to establish linkages with other libraries.
+    ]]>
+</string>
+
+
+    <string name="vision_in_support_to_the_college_mission_the_library_service_will_provide_information_resources_and_service_in_cooperation_with_the_academic_departments_and_faculty_with_clear_focus_on_student_learning_as_well_as_in_the_community_where_people_and_ideas_intereact_to_expand_learning_and_to_facilitate_the_creation_of_new_knowledge">VISION: In support to the college mission, The library service will provide information resources and service in cooperation with the academic departments and faculty with clear focus on student learning as well as in the community where people and ideas intereact to expand learning and to facilitate the creation of new knowledge</string>
+    <string name="mission">Mission</string>
+    <string name="objectives">Objectives</string>
+    <string name="about_us">About Us</string>
+    <string name="vision">Vision</string>
+    <string name="the_cpc_library_services_serves_as_the_repository_material_of_both_print_and_non_print_informational_resources_to_provide_service_and_facilities_which_support_the_different_programs_of_the_college_it_also_contributes_to_the_academic_success_growth_and_development_of_students_through_teaching_and_by_promoting_information_literacy">The CPC Library Services serves as the repository material of both print and non-print informational resources to provide service and facilities which support the different programs of the college. It also contributes to the academic success, growth and development of students through teaching and by promoting information literacy.</string>
+    <string name="todo">TODO</string>
+    <string name="tab_layout" />
+</resources>

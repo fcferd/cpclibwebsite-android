@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="nav_home">home</drawable>
+    <drawable name="nav_books">books</drawable>
+    <drawable name="nav_libraryofficials">libraryofficials</drawable>
+    <drawable name="nav_about">about</drawable>
+</resources>
